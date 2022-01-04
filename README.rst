@@ -1,40 +1,20 @@
-AlertOps Expert Guidance
+Why You Need Multi-Modal Incident Management Software
 ========
+Today’s IT monitoring systems enable you to track just about anything – from file sizes to network bandwidth to website traffic to potential viruses and other types of cyberattacks. There are all-inclusive tools that will do all of the above. Or, you can pick and choose the best tool for each of your monitoring needs. Regardless of which option you select, you can rest easy knowing that all of your IT systems are being monitored 24/7.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+However, it is important to note that not all IT monitoring systems are designed to “solve” IT problems. Most IT monitoring systems instead help you identify IT problems and alert incident management team members about these issues. This means your incident management team likely plays a key role in resolving IT issues and preventing them from causing downtime and outages.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Incident management teams are important contributors to their respective organizations. Yet incident management team members rarely, if ever, get the support they need to perform their everyday tasks to the best of their ability. For example, IT professionals sometimes struggle to maintain the right work-life balance. And when an IT incident occurs, an IT professional may be notified about this incident at home, school or elsewhere. As such, an IT professional cannot relax; conversely, he or she must be ready to respond to a critical incident at a moment’s notice.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Today, being on-call involves much more than simply receiving emails. IT professionals need to be able to acknowledge issues, take assignments, jump on a conference bridge, create new tickets in ticketing software and much more. That’s where an incident management system with multi-modal communications can help IT professionals achieve the best-possible results.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+AlertOps is both multi-modal and multilingual. It enables you to use different devices to access your data (like a laptop, smartphone or tablet) and receive messages in different formats (like email, voice call and SMS). It even empowers you to set up a “chat” conversation within a large team using collaboration tools like Slack or HipChat. This provides IT professionals with unparalleled flexibility, as they now can be fully functional from any location and on any device.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+When it comes to simplifying, accelerating and improving incident management, it helps to choose tools that are both multi-modal and multilingual. Whereas some incident management tools offer a mobile app and access to email, no one brings together different devices and modes of communication like AlertOps. Thanks to AlertOps, IT professionals can ensure the right incident management team members consistently will receive the right alerts through the right platforms, leading to faster, more efficient results.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/incident-management-software/
 
 Read more:
 ====
